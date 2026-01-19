@@ -97,7 +97,7 @@ The report should be 1 page and must include:
 * Create a small heatmap using these features.
 
 **4. Feature vs. SalePrice Visualizations (MANDATORY)**
-* Create at least 4 charts (Recommended: `OverallQual`, `GrLivArea`, `YearBuilt`, `GarageCars` vs `SalePrice`).
+* Create at least 4 charts (Recommended: `OverallQual`vs `SalePrice`, `GrLivArea`vs `SalePrice`, `YearBuilt`vs `SalePrice`, `GarageCars` vs `SalePrice`).
 * **Note:** Write 1-2 sentences of commentary after each chart.
 
 #### ✅ C) Data Cleaning (MANDATORY)
