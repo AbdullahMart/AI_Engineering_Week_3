@@ -56,7 +56,8 @@ The report should be 1 page and must include:
 
 ### 🧠 Project Rules
 
-**✅ Minimum Requirements:** * **EDA:** Exploratory Data Analysis.  
+**✅ Minimum Requirements:** 
+* **EDA:** Exploratory Data Analysis.  
 * **Cleaning:** Data cleaning process.  
 * **Preprocessing:** Scaling and encoding.  
 * **Feature Engineering:** Creating new variables.  
